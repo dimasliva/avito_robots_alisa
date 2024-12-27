@@ -427,6 +427,7 @@ body {
 .section_eleven .watcher span {
   display: inline-block;
   transition: transform 0.3s ease;
+  /* animation: wave 5s ease-in-out infinite; */
 }
 
 .section_eleven .watcher span:nth-child(1) {
